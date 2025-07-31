@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">appnovation_test</string>
+
+<!--    bank list string resource-->
+    <string name="banks_list_title">Automatic Add Value Service</string>
+    <string name="banks_action_recommended_title">Recommended</string>
+    <string name="banks_action_More_title">More</string>
+</resources>

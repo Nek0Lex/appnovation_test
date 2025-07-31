@@ -1,0 +1,1 @@
+Please open it with latest version of Android Studio.
